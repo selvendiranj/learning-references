@@ -5,3 +5,5 @@
 * https://github.com/stratisproject/NStratis
 * https://github.com/ProgrammingBlockchain 
 * https://github.com/MetacoSA/NBitcoin
+* https://github.com/bitcoinbook/bitcoinbook
+* https://bitcoin.org/en/developer-guide
