@@ -24,3 +24,29 @@ Why use them, who uses them, and how to use them](https://cdn.rawgit.com/clifton
 12. [The Blockchain: Capital Markets Use Cases](http://research.greyspark.com/2015/blockchain-capital-markets-use-cases-2/)
 13. [Holochain (website)](http://ceptr.org/projects/holochain)
 14. [Holochain (github)](https://github.com/metacurrency/holochain)
+
+## Implementation Tutorials:
+* http://ecomunsing.com/build-your-own-blockchain
+* https://www.devteam.space/blog/how-to-create-your-own-cryptocurrency/
+* https://tachun.wordpress.com/2017/12/28/blockchain/
+* https://www.motocms.com/blog/en/blockchain-tutorial-examples/
+* https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+* https://github.com/dvf/blockchain
+
+## Modular Arithmetic:
+* https://www.ti89.com/cryptotut/mod_arithmetic.htm
+* http://artofproblemsolving.com/wiki/index.php?title=Modular_arithmetic/Introduction
+ 
+ 
+## Elliptic Curve Cryptography:
+* https://www.johannes-bauer.com/compsci/ecc/
+ 
+ 
+## Block Chain MobileFish.com
+* https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x
+
+* https://medium.com/@DebrajG/how-the-byzantine-general-sacked-the-castle-a-look-into-blockchain-370fe637502c
+* http://tradesamaritan.com/world-trade/products/post-shipment-finance 
+* http://www.letterofcredit.biz/how-does-an-import-letter-of-credit-work.html
+* http://www.slideshare.net/B9lab/trade-finance-and-blockchain-59308884 
+* https://blockchainhub.net/smart-contracts/
