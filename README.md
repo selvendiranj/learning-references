@@ -1,4 +1,4 @@
-# blockchain-references
+# Blockchain References
 
 * [Blockchain Programming in C#](https://aois.blob.core.windows.net/public/Blockchain%20Programming%20in%20CSharp.pdf)
 * [Blockchain Technology and Applications | Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/)
