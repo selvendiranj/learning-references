@@ -7,3 +7,5 @@
 * https://github.com/MetacoSA/NBitcoin
 * https://github.com/bitcoinbook/bitcoinbook
 * https://bitcoin.org/en/developer-guide
+* https://cdn.rawgit.com/cliftonm/MerkleTree/master/Article/indexWithToc.htm
+
