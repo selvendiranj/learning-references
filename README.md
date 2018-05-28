@@ -8,8 +8,8 @@
 * [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 * [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide)
 
-0. [Understanding Merkle Trees
-Why use them, who uses them, and how to use them](https://cdn.rawgit.com/cliftonm/MerkleTree/master/Article/indexWithToc.htm)
+## Understanding Merkle Trees
+0. [Merkle Tree - Why use them, who uses them, and how to use them](https://cdn.rawgit.com/cliftonm/MerkleTree/master/Article/indexWithToc.htm)
 1. [Ralph Merkle](https://en.wikipedia.org/wiki/Ralph_Merkle)
 2. [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree)
 3. [Method of providing digital signatures, patent US 4309569 A](https://www.google.com/patents/US4309569)
