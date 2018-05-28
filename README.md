@@ -8,30 +8,26 @@
 
 
 ## SSO/ADFS
-* [](https://tech.greenhouse.io/2016/08/01/create-adfs-instance-on-azure-virtual-machine.html#step-6)
-* [](http://support.talentlms.com/knowledgebase/articles/328229-how-to-configure-sso-with-microsoft-active-directo)
-* [](https://support.zendesk.com/hc/en-us/articles/203663886-Setting-up-single-sign-on-using-Active-Directory-with-ADFS-and-SAML-Professional-and-Enterprise-)
-* [](https://github.com/Microsoft/HealthClinic.biz/wiki/Create-and-deploy-an-ASP.NET-web-app-in-Azure-App-Service)
-* [](http://www.dotnetcurry.com/windows-azure/1158/using-adfs-azure-single-signon-aspnet-mvc)
+* [Create ADFS 3.0 Instance on an Azure Virtual Machine](https://tech.greenhouse.io/2016/08/01/create-adfs-instance-on-azure-virtual-machine.html#step-6)
+* [How to configure SSO with Microsoft ADFS 2.0](http://support.talentlms.com/knowledgebase/articles/328229-how-to-configure-sso-with-microsoft-active-directo)
+* [Setting up single sign-on using Active Directory with ADFS and SAML ](https://support.zendesk.com/hc/en-us/articles/203663886-Setting-up-single-sign-on-using-Active-Directory-with-ADFS-and-SAML-Professional-and-Enterprise-)
+* [Create and deploy an ASP.NET web app in Azure App Service](https://github.com/Microsoft/HealthClinic.biz/wiki/Create-and-deploy-an-ASP.NET-web-app-in-Azure-App-Service)
+* [Using ADFS with Azure for Single Sign-On in ASP.NET MVC](http://www.dotnetcurry.com/windows-azure/1158/using-adfs-azure-single-signon-aspnet-mvc)
 
 
-## ngt16
-* [](https://decentralize.today)
-* [](https://www.teamleada.com/handbook)
+## NextGen Technologies
+* [Decentralize Today - Moving towards decentralization](https://decentralize.today)
+* [The Data Analytics Handbook](https://www.teamleada.com/handbook)
 
 
 ## Others
-* [](http://www.martinfowler.com)
-* [](http://richnewman.wordpress.com)
-* [](http://stackoverflow.com/questions/4879310/when-setting-up-a-wcf-client-and-server-how-synchronized-does-the-config-files)
-* [](http://www.javaworld.com/article/2093747/java-ios-developer/12-predictions-for-the-future-of-programming.html)
-* [](http://developer.telerik.com/featured/future-net)
-* [](http://www.asp.net/vnext)
-* [](http://blogs.msdn.com/b/webdev/archive/2014/11/12/announcing-asp-net-features-in-visual-studio-2015-preview-and-vs2013-update-4.aspx)
-* [](http://docs.asp.net/en/latest)
-* [](https://thinkster.io/a-better-way-to-learn-angularjs)
-* [](http://www.hongkiat.com/blog/angularjs-tutorials-screencast)
-* [](http://www.angularjshub.com/examples/modules)
+* [software development articles](http://www.martinfowler.com)
+* [Rich Newman Wordpress articles](http://richnewman.wordpress.com)
+* [WCF client and server - synchronize Config File](http://stackoverflow.com/questions/4879310/when-setting-up-a-wcf-client-and-server-how-synchronized-does-the-config-files)
+* [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core)
+* [Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs)
+* [Best Tutorials To Learn AngularJS](http://www.hongkiat.com/blog/angularjs-tutorials-screencast)
+* [AngularJS Hub Samples](http://www.angularjshub.com/examples/modules)
 * [](http://bitoftech.net/2015/01/21/asp-net-identity-2-with-asp-net-web-api-2-accounts-management)
 * [](https://github.com/lukehoban/es6features#readme)
 * [](http://tutorials.jenkov.com/exception-handling-strategies/index.html)
