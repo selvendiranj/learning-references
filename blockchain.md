@@ -44,8 +44,29 @@
  
 ## Block Chain MobileFish.com
 * https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x
+
+## Other References
 * https://medium.com/@DebrajG/how-the-byzantine-general-sacked-the-castle-a-look-into-blockchain-370fe637502c
 * http://tradesamaritan.com/world-trade/products/post-shipment-finance
 * http://www.letterofcredit.biz/how-does-an-import-letter-of-credit-work.html
 * http://www.slideshare.net/B9lab/trade-finance-and-blockchain-59308884
 * https://blockchainhub.net/smart-contracts/
+*	https://www.quora.com/What-are-the-most-interesting-uses-of-blockchains-other-than-cryptocurrencies
+*	http://letstalkpayments.com/an-overview-of-blockchain-technology/
+*	https://www.cbinsights.com/blog/industries-disrupted-blockchain/
+*	http://dupress.com/articles/trends-blockchain-bitcoin-security-transparency/
+*	https://www.youtube.com/playlist?list=PL73q2zDIiGK_O5OYdK5vxcezzC0zu_3OS
+*	https://www.blockstars.io/ecosystem/
+*	https://www.quora.com/What-are-the-most-interesting-uses-of-blockchains-other-than-cryptocurrencies
+*	https://blockchain.info/api
+*	http://www.javaworld.com/article/2078482/java-web-development/bitcoin-for-beginners--part-3--the-bitcoinj-api.html - BitCoinJ API
+*	https://www.toptal.com/bitcoin/cryptocurrency-for-dummies-bitcoin-and-beyond - How authentication is done in Block chain
+*	https://www.reddit.com/r/Bitcoin/comments/3n44cz/blockchain_implementation_java/ - Blog which suggests some ways to implement Block chain using Java
+*	https://github.com/ethereum/mist/releases - Ethereum
+*	https://github.com/ethereum/ethereumj - Java implementation of ethereum protocol
+*	www.coindesk.com 
+*	www.cointelegraph.com 
+*	www.bankinnovation.net/tag/blockchain 
+*	www.reddit.com/r/Blockchain 
+*	www.quora.com/topic/Blockchain 
+*	www.Blockchain.info  to see it live in action
