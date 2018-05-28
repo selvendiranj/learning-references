@@ -44,7 +44,6 @@
  
 ## Block Chain MobileFish.com
 * https://www.youtube.com/watch?v=KXUTUhERJUE&list=PLmL13yqb6OxdEgSoua2WuqHKBuIqvll0x
-
 * https://medium.com/@DebrajG/how-the-byzantine-general-sacked-the-castle-a-look-into-blockchain-370fe637502c
 * http://tradesamaritan.com/world-trade/products/post-shipment-finance
 * http://www.letterofcredit.biz/how-does-an-import-letter-of-credit-work.html
