@@ -10,7 +10,7 @@
 ## SSO/ADFS
 * [](https://tech.greenhouse.io/2016/08/01/create-adfs-instance-on-azure-virtual-machine.html#step-6)
 * [](http://support.talentlms.com/knowledgebase/articles/328229-how-to-configure-sso-with-microsoft-active-directo)
-* [](https://support.zendesk.com/hc/en-us/articles/203663886-Setting-up-single-sign-on-using-Active-Directory-with-ADFS-and-SAML-Professional-and-Enterprise-
+* [](https://support.zendesk.com/hc/en-us/articles/203663886-Setting-up-single-sign-on-using-Active-Directory-with-ADFS-and-SAML-Professional-and-Enterprise-)
 * [](https://github.com/Microsoft/HealthClinic.biz/wiki/Create-and-deploy-an-ASP.NET-web-app-in-Azure-App-Service
 * [](http://www.dotnetcurry.com/windows-azure/1158/using-adfs-azure-single-signon-aspnet-mvc
 
@@ -35,7 +35,7 @@
 * [](http://bitoftech.net/2015/01/21/asp-net-identity-2-with-asp-net-web-api-2-accounts-management)
 * [](https://github.com/lukehoban/es6features#readme)
 * [](http://tutorials.jenkov.com/exception-handling-strategies/index.html)
-* [](blog.stephencleary.com - tasks TPL)
+* [](blog.stephencleary.com)
 * [](http://blog.stephencleary.com/2012/02/async-and-await.html)
 * [](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 * [](https://evolve.xamarin.com/session/56ec886fde91c6253c277bc6)
