@@ -11,8 +11,8 @@
 * [](https://tech.greenhouse.io/2016/08/01/create-adfs-instance-on-azure-virtual-machine.html#step-6)
 * [](http://support.talentlms.com/knowledgebase/articles/328229-how-to-configure-sso-with-microsoft-active-directo)
 * [](https://support.zendesk.com/hc/en-us/articles/203663886-Setting-up-single-sign-on-using-Active-Directory-with-ADFS-and-SAML-Professional-and-Enterprise-)
-* [](https://github.com/Microsoft/HealthClinic.biz/wiki/Create-and-deploy-an-ASP.NET-web-app-in-Azure-App-Service
-* [](http://www.dotnetcurry.com/windows-azure/1158/using-adfs-azure-single-signon-aspnet-mvc
+* [](https://github.com/Microsoft/HealthClinic.biz/wiki/Create-and-deploy-an-ASP.NET-web-app-in-Azure-App-Service)
+* [](http://www.dotnetcurry.com/windows-azure/1158/using-adfs-azure-single-signon-aspnet-mvc)
 
 
 ## ngt16
