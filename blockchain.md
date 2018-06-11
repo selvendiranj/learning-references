@@ -7,6 +7,7 @@
 * [NBitcoin - Comprehensive Bitcoin library for the .NET framework](https://github.com/MetacoSA/NBitcoin)
 * [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 * [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide)
+* [exploiting ecdsa failures in the bitcoin blockchain](https://speakerdeck.com/filosottile/exploiting-ecdsa-failures-in-the-bitcoin-blockchain)
 
 ## Understanding Merkle Trees
 0. [Merkle Tree - Why use them, who uses them, and how to use them](https://cdn.rawgit.com/cliftonm/MerkleTree/master/Article/indexWithToc.htm)
