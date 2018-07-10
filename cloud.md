@@ -1,1 +1,1 @@
-(Cloud Council)[http://www.cloud-council.org/]
+[Cloud Council](http://www.cloud-council.org/)
