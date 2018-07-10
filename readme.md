@@ -13,7 +13,9 @@
 * [Setting up single sign-on using Active Directory with ADFS and SAML ](https://support.zendesk.com/hc/en-us/articles/203663886-Setting-up-single-sign-on-using-Active-Directory-with-ADFS-and-SAML-Professional-and-Enterprise-)
 * [Create and deploy an ASP.NET web app in Azure App Service](https://github.com/Microsoft/HealthClinic.biz/wiki/Create-and-deploy-an-ASP.NET-web-app-in-Azure-App-Service)
 * [Using ADFS with Azure for Single Sign-On in ASP.NET MVC](http://www.dotnetcurry.com/windows-azure/1158/using-adfs-azure-single-signon-aspnet-mvc)
-
+* [AD FS 2016 Operations](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/ad-fs-2016-operations)
+* [replace expired certificates on ADFS 3.0](http://scug.be/sccm/2015/06/04/how-to-replace-expired-certificates-on-adfs-3-0-the-right-way/)
+* [ADFS 3.0: replace SSL certificate](https://nolabnoparty.com/en/adfs-3-0-replace-ssl-certificate/)
 
 ## NextGen Technologies
 * [Decentralize Today - Moving towards decentralization](https://decentralize.today)
@@ -36,3 +38,15 @@
 * [Microsoft Application Architecture Guide](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 * [Xamarin Events](https://channel9.msdn.com/events/xamarin)
 * [SQL Server Deadlocks](https://www.simple-talk.com/sql/performance/sql-server-deadlocks-by-example)
+
+
+## Tensorflow:-
+[An open source machine learning framework](https://www.tensorflow.org/)
+[TensorFlow Tutorials with YouTube Videos](https://github.com/Hvass-Labs/TensorFlow-Tutorials/)
+
+
+## Dockerize
+* [Dockerize Windows Applications](https://blog.sixeyed.com/how-to-dockerize-windows-applications/)
+
+## Event Driven MicroServices
+* [Azure Event Grid: Powering serverless through eventing](https://www.youtube.com/watch?v=SaOWhPTjHn0)
