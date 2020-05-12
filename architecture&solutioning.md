@@ -9,3 +9,4 @@
 * [The Open Group TOGAF® Standard, Version 9.2](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
 * [Mike The Architect](https://mikethearchitectblog.wordpress.com/)
 * [MartinFowler Software Architecture Guide](https://martinfowler.com/architecture/)
+* [Simon Brown - Software Architecture for Developers](https://www.youtube.com/watch?v=z1xLDzx7hgw)
