@@ -8,3 +8,4 @@
 * [Google Cloud Solution Guide](https://cloud.google.com/docs/tutorials#architecture)
 * [The Open Group TOGAF® Standard, Version 9.2](https://pubs.opengroup.org/architecture/togaf92-doc/arch/)
 * [Mike The Architect](https://mikethearchitectblog.wordpress.com/)
+* [MartinfFwler Software Architecture Guide](https://martinfowler.com/architecture/)
