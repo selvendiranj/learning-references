@@ -19,4 +19,5 @@
 * Nikolay Ashanin - Solution Architect
     * [https://github.com/NikAshanin](https://github.com/NikAshanin)
     * [https://medium.com/@nvashanin](https://medium.com/@nvashanin)
-* [CyberSecurity](https://www.managedsentinel.com/)
+* [ManagedSentinel CyberSecurity](https://www.managedsentinel.com/)
+* [Microservice Architecture](https://microservices.io/)
