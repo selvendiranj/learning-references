@@ -21,3 +21,4 @@
     * [https://medium.com/@nvashanin](https://medium.com/@nvashanin)
 * [ManagedSentinel CyberSecurity](https://www.managedsentinel.com/)
 * [Microservice Architecture](https://microservices.io/)
+* [OpenSecurityArchitecture](http://www.opensecurityarchitecture.org/)
