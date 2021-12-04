@@ -55,3 +55,15 @@
 ## Bootstrap Admin Templates
 * [Robust Admin](https://pixinvent.com/bootstrap-admin-template/robust/html/ltr/vertical-menu-template/)
 * [AdminLTE 3](https://adminlte.io/themes/v3/)
+
+## Charts
+* [Google Charts](https://developers.google.com/chart)
+* [ECharts](https://github.com/apache/echarts)
+* [Chartjs](https://github.com/chartjs/Chart.js)
+* [D3 Charts](https://github.com/d3/d3)
+* [C3 Charts](https://github.com/c3js/c3)
+* [Chartist](https://github.com/gionkunz/chartist-js)
+* [Dimple Charts](https://github.com/pmsi-alignalytics/dimple)
+* [Morris Charts](https://github.com/morrisjs/morris.js)
+* [Flot Charts](https://github.com/flot/flot)
+* [Rickshaw Charts](https://github.com/shutterstock/rickshaw)
