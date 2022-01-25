@@ -24,3 +24,4 @@
 * [OpenSecurityArchitecture](http://www.opensecurityarchitecture.org/)
 * [Google Site Reliability Engineering(SRE)](https://landing.google.com/sre/books/)
 * [Linkedin School of SRE](https://linkedin.github.io/school-of-sre/)
+* [Continuous Architecture](https://continuousarchitecture.com/the-book/) 
