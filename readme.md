@@ -38,6 +38,7 @@
 * [Microsoft Application Architecture Guide](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
 * [Xamarin Events](https://channel9.msdn.com/events/xamarin)
 * [SQL Server Deadlocks](https://www.simple-talk.com/sql/performance/sql-server-deadlocks-by-example)
+* [g r a p h e m i c a  l  ♥ v e  l e t t e r s](https://graphemica.com/)
 
 
 ## Tensorflow:-
